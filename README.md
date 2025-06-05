@@ -28,5 +28,4 @@ My love for technology has led me to develop a passion for cybersecurity, and I 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
